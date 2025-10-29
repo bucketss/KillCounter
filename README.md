@@ -7,7 +7,3 @@
 /kc tt              - Cycle tooltip display settings  
 /kc tt 0/1/2        - Change display setting directly  
 /kc help            - Show ingame help  
-
-## Creds
-
-backported to vanilla 1.12 client by arc
